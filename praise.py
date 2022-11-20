@@ -1,1 +1,1 @@
-print("Praise the Lord",8)
+print("AzureDevOps Trigger")
